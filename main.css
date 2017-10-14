@@ -1,16 +1,21 @@
 h1 {
-    color: #000066;
+    color: #07123A;
+    font-family: Helvetica;
 }
 
-body {
-    background-color: lightblue;
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica";
+    background-color: #7A86AD;
 }
 
 #header {
     text-align: center;
     padding-top: 25px;
     padding-bottom: 25px;
-    background-color: #6666ff;
+    background-color: #505F90;
 }
 
 #content {
