@@ -1,0 +1,18 @@
+h1 {
+    color: #264d00;
+}
+
+
+#header {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: #c9ff99;
+}
+
+#content {
+    width: 75%;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
