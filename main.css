@@ -1,5 +1,5 @@
 h1 {
-    color: #264d00;
+    color: #99cc00;
 }
 
 
@@ -11,8 +11,9 @@ h1 {
 }
 
 #content {
-    width: 75%;
+    width: 85%;
     margin-top: 25px;
     margin-left: auto;
     margin-right: auto;
+    background-color: #c4edc4;
 }
