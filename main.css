@@ -2,6 +2,9 @@ h1 {
     color: #000066;
 }
 
+body {
+    background-color: lightblue;
+}
 
 #header {
     text-align: center;
