@@ -1,26 +1,13 @@
 h1 {
     color: #07123A;
-    font-family: Helvetica;
-}
-
-
-body{
-    margin: 0;
-    padding: 0;
     font-family: "Helvetica";
-    background-color: #7A86AD;
-}
-
-#header {
     text-align: center;
     padding-top: 25px;
     padding-bottom: 25px;
     background-color: #505F90;
 }
 
-#content {
-    width: 85%;
-    margin-top: 25px;
-    margin-left: auto;
-    margin-right: auto;
+body{
+    font-family: "Helvetica";
+    background-color: #7A86AD;
 }
